@@ -11,7 +11,7 @@ get '/secret' do
 end
 
 get '/cat' do
-  "<div style='border: 5px solid #b7d7f8;text-align: center'>
-    <img src='https://i.ytimg.com/vi/1Ne1hqOXKKI/maxresdefault.jpg'/>
-  </div>"
+  '<div>
+    <img style="border:10px solid #000;" src="http://www.oprah.com/g/image-resizer?width=670&link=http://static.oprah.com/images/o2/201605/201605-orig-two-cats-949x534.jpg">
+  </div>'
 end
