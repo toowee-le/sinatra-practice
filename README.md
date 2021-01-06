@@ -1,4 +1,5 @@
 # Week 5 - Intro to web applications and Sinatra
+Playing around with Sinatra.
 
 ## Tech/framework used
 * [Ruby](https://www.ruby-lang.org/en/documentation/) - programming language used
@@ -6,7 +7,7 @@
 
 ## Installation
 ```
-Fork and clone the repository
+// Fork and clone the repository
 
 // Open the project folder in the terminal and run the following command to install gems
 bundle install
